@@ -1,0 +1,8 @@
+Hex: 3af, Dec: 943
+Hex: 55d, Dec: 1373
+Hex: 879, Dec: 2169
+Invalid hex value. Expected 0-9, a-z, A-Z.
+Hex: fff, Dec: 4095
+Hex: 4cb, Dec: 1227
+Hex: 87e, Dec: 2174
+Invalid hex value. Expected 0-9, a-z, A-Z.
